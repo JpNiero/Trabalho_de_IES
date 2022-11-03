@@ -2,6 +2,7 @@
 
 Nome do projeto: Lista de Exercícios
 Integrantes:
+
 João Pedro Niero da Silva - jpnieros@gmail.com
 
 Marcos Vinicius de Alencar Santana - marcos.12.01.07@gmail.com 
