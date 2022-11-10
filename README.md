@@ -1,7 +1,7 @@
 # Trabalho_de_IES
 
-Nome do projeto: Lista de Exercícios
-Integrantes:
+## Nome do projeto: Lista de Exercícios
+## Integrantes:
 
 João Pedro Niero da Silva - jpnieros@gmail.com
 
@@ -9,8 +9,8 @@ Marcos Vinicius de Alencar Santana - marcos.12.01.07@gmail.com
 
 Vitor Rafael Matias Santos - vitormatias.617@hotmail.com
 
-Exercícios/funcionalidades:
-Exercícios 1 a 6 do grupo de matrizes:
+## Exercícios/funcionalidades:
+## Exercícios 1 a 6 do grupo de matrizes:
 
 E1: imprime uma matriz 3x3 informada pelo usuário e imprime a soma dos números ímpares da mesma.
 
@@ -24,7 +24,7 @@ E5: Imprime uma matriz 4x4 informada pelo usuário e imprime sua diagonal princi
 
 E6: Imprime uma matriz 4x4 informada pelo usuário e imprime sua diagonal secundária.
 
-Exercicíos 1 a 4 do grupo de funções:
+## Exercicíos 1 a 4 do grupo de funções:
 
 E1: calcula a enésima potência de uma variável x.
 
@@ -34,7 +34,7 @@ E3: calcula: ex = 1 + x + x2/2! + x3/3! + ... enquanto x inserido pelo usuário 
 
 E4: Imprime opções de pagamento para um determinado valor inserido pelo usuário.
 
-Exercícios 1 a 13 do grupo de strings:
+## Exercícios 1 a 13 do grupo de strings:
 
 E1: imprime quantos caracteres, sinais de pontuação, números e quantas letras minúsculas possui a(s) palavra(s) digitadas.
 
@@ -62,7 +62,7 @@ E12: retorna o endereço do primeiro caractere em branco encontrado.
 
 E13: imprime o valor em decimal de um número em determinada base informada.
 
-Exercícios 1 a 7 do grupo de parâmetros e estruturas:
+## Exercícios 1 a 7 do grupo de parâmetros e estruturas:
 
 E1: imprime a soma, diferença e o produto entre dois números.
 
@@ -78,31 +78,31 @@ E6: imprime uma lista de produtos ordenados alfabeticamente, onde os valores que
 
 E7: é igual ao exercício 5.
 
-Realeses Entregues:
+## Realeses Entregues:
 
 Entrega #1 - grupo de matrizes e funções. (v1.0.0)
 
 Entrega #2 - grupo de parâmetros e strings. (v2.0.0)
 
-Realeses a entregar:
+## Realeses a entregar:
 
 Entregar #3 - grupo de sequenciais simples e controle de fluxo.
 
-IDEs:
+## IDEs:
 
 Visual Studio Code (version 1.73)
 
 Online GDB
 
-Compilador:
+## Compilador:
 
 gcc - compilador que opera em linha de comando.
 
 Online gdb - compilador online para várias linguagens.
 
-Orientação de execução:
+## Orientação de execução:
 
-Exercícios 1 a 6 do grupo de matrizes:
+## Exercícios 1 a 6 do grupo de matrizes:
 
 E1, E4: executar e digitar uma matriz 3x3.
 
@@ -110,7 +110,7 @@ E2, E5, E6: executar e digitar uma matriz 4x4.
 
 E3: executar e digitar uma matriz 3x4.
 
-Exercicíos 1 a 4 do grupo de funções:
+## Exercicíos 1 a 4 do grupo de funções:
 
 E1: executar e digitar uma base e um expoente.
 
@@ -120,7 +120,7 @@ E3: executar e digitar um valor 'x' para substituir na expressão: ex = 1 + x + 
 
 E4: executar e inserir o valor a ser pago e digitar de 1 a 3 para selecionar a opção de pagamento.
 
-Exercícios 1 a 13 do grupo de strings:
+## Exercícios 1 a 13 do grupo de strings:
 
 E1: digitar uma string.
 
@@ -148,7 +148,7 @@ E12: digitar uma palavra.
 
 E13: digitar um número e sua base.
 
-Exercícios 1 a 7 do grupo de parâmetros e estruturas:
+## Exercícios 1 a 7 do grupo de parâmetros e estruturas:
 
 E1: digitar dois números.
 
@@ -165,7 +165,7 @@ E6: digitar 20 nomes e 20 preços, um ao lado do outro.
 E7: igual ao exercício 5.
 
 
-NOTA: Não consegui realizar o exercício 9 do grupo de strings, entregarei no próximo release, Marcos Vinicius.
+## NOTA: Não consegui realizar o exercício 9 do grupo de strings, entregarei no próximo release, Marcos Vinicius.
 
 
 
