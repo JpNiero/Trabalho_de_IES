@@ -162,7 +162,7 @@ E5: escolher a função do menu e seguir as orientações que estarão na tela.
 
 E6: digitar 20 nomes e 20 preços, um ao lado do outro.
 
-E7: 
+E7: igual ao exercício 5.
 
 
 
