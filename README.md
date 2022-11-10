@@ -148,4 +148,23 @@ E12: digitar uma palavra.
 
 E13: digitar um número e sua base.
 
+Exercícios 1 a 7 do grupo de parâmetros e estruturas:
+
+E1: digitar dois números.
+
+E2: digitar dois números.
+
+E3: digitar 10 números, sendo o último negativo.
+
+E4: digitar 3 valores.
+
+E5: escolher a função do menu e seguir as orientações que estarão na tela.
+
+E6: digitar 20 nomes e 20 preços, um ao lado do outro.
+
+E7: 
+
+
+
+
 
