@@ -60,13 +60,31 @@ E11: imprime uma string com um caractere informado, inserido na posição també
 
 E12: retorna o endereço do primeiro caractere em branco encontrado.
 
+E13: imprime o valor em decimal de um número em determinada base informada.
+
+Exercícios 1 a 7 do grupo de parâmetros e estruturas:
+
+E1: imprime a soma, diferença e o produto entre dois números.
+
+E2: imprime 1 se a operação de razão entre dois números for possível e 0 caso contrário.
+
+E3: imprime a média, o menor valor (sem considerar o último) e o maior valor de um vetor, onde o último valor é negativo.
+
+E4: imprime o valor das 3 notas de um aluno.
+
+E5: executa funções de uma agenda eletrônica implementadas em um menu, como: entrar um novo nome na agenda, imprimir dados de uma pessoa e imprimir uma lista de nomes cadastrados que comecem pela letra indicada.
+
+E6: imprime uma lista de produtos ordenados alfabeticamente, onde os valores que estão abaixo de 100 reais, são inflacionados em 5%.
+
+E7: é igual ao exercício 5.
+
 Realeses Entregues:
 
 Entrega #1 - grupo de matrizes e funções. (v1.0.0)
 
-Realeses a entregar:
+Entrega #2 - grupo de parâmetros e strings. (v2.0.0)
 
-Entrega #2 - grupo de parâmetros e strings.
+Realeses a entregar:
 
 Entregar #3 - grupo de sequenciais simples e controle de fluxo.
 
