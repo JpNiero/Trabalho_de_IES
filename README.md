@@ -48,7 +48,17 @@ E5: retorna 1 se a string digitada foi "SIM" e 0 se for digitado "NAO".
 
 E6: imprime quantas palavras separadas por espaços em branco a string contém.
 
-E7: 
+E7: executa a mesma coisa que a função "strcpy" faz.
+
+E8: imprime um numero por extenso.
+
+E9: imprime uma lista de nomes em ordem alfabética do pré-nome, lista de nomes em ordem alfabética de sobrenome e o número médio de letras por nome.
+
+E10: imprime uma string sem o caracter que foi informado.
+
+E11: imprime uma string com um caractere informado, inserido na posição também informada.
+
+E12: retorna o endereço do primeiro caractere em branco encontrado.
 
 Realeses Entregues:
 
