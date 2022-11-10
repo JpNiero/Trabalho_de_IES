@@ -138,7 +138,7 @@ E7: digitar uma palavra.
 
 E8: digitar um número menor que 1000
 
-E9: 
+E9:
 
 E10: digitar uma palavra e um caractere que deseja remover.
 
@@ -165,6 +165,7 @@ E6: digitar 20 nomes e 20 preços, um ao lado do outro.
 E7: igual ao exercício 5.
 
 
+NOTA: Não consegui realizar o exercício 9 do grupo de strings, entregarei no próximo release, Marcos Vinicius.
 
 
 
