@@ -34,6 +34,22 @@ E3: calcula: ex = 1 + x + x2/2! + x3/3! + ... enquanto x inserido pelo usuário 
 
 E4: Imprime opções de pagamento para um determinado valor inserido pelo usuário.
 
+Exercícios 1 a 13 do grupo de strings:
+
+E1: imprime quantos caracteres, sinais de pontuação, números e quantas letras minúsculas possui a(s) palavra(s) digitadas.
+
+E2: imprime a string digitada dividida em linhas diferentes de acordo com a quantidade de espaços em branco.
+
+E3: imprime o string de forma normal e de trás para frente, recursivamente.
+
+E4: monta um frase contendo as seguintes informações: "Seu nome é ..., você tem ... anos, mora na rua ... e seu telefone é ... ."
+
+E5: retorna 1 se a string digitada foi "SIM" e 0 se for digitado "NAO".
+
+E6: imprime quantas palavras separadas por espaços em branco a string contém.
+
+E7: 
+
 Realeses Entregues:
 
 Entrega #1 - grupo de matrizes e funções. (v1.0.0)
