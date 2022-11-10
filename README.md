@@ -112,10 +112,40 @@ E3: executar e digitar uma matriz 3x4.
 
 Exercicíos 1 a 4 do grupo de funções:
 
-E1: executar e digitar uma base  e um expoente.
+E1: executar e digitar uma base e um expoente.
 
 E2 recursivo, E2 não recursivo: executar e digitar o número que deseja calcular o fatorial.
 
 E3: executar e digitar um valor 'x' para substituir na expressão: ex = 1 + x + x2/2! + x3/3! + ... 
 
 E4: executar e inserir o valor a ser pago e digitar de 1 a 3 para selecionar a opção de pagamento.
+
+Exercícios 1 a 13 do grupo de strings:
+
+E1: digitar uma string.
+
+E2: digitar uma string com pelo menos um espaço em branco.
+
+E3: digitar uma palavra.
+
+E4: digitar um nome, endereço, telefone e a idade.
+
+E5: digitar "SIM" ou "NAO".
+
+E6: digitar uma palavra.
+
+E7: digitar uma palavra.
+
+E8: digitar um número menor que 1000
+
+E9: 
+
+E10: digitar uma palavra e um caractere que deseja remover.
+
+E11: digitar uma palavra, um caractere e uma posição (número).
+
+E12: digitar uma palavra.
+
+E13: digitar um número e sua base.
+
+
