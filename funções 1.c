@@ -1,5 +1,5 @@
 #include <stdio.h>
-//
+
 double calcular_potencia (int base, int expoente){
     if (expoente>0){
         return base * calcular_potencia(base, expoente-1);
