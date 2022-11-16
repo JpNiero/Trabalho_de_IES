@@ -165,7 +165,3 @@ E6: digitar 20 nomes e 20 preços, um ao lado do outro.
 E7: igual ao exercício 5.
 
 
-## NOTA: Não consegui realizar o exercício 9 do grupo de strings, entregarei no próximo release, Marcos Vinicius.
-
-
-
