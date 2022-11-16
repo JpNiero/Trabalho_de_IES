@@ -10,73 +10,43 @@ Marcos Vinicius de Alencar Santana - marcos.12.01.07@gmail.com
 Vitor Rafael Matias Santos - vitormatias.617@hotmail.com
 
 ## Exercícios/funcionalidades:
-## Exercícios 1 a 6 do grupo de matrizes:
+## Exercícios 1 a 5 do grupo de programas sequencias simples:
 
-E1: imprime uma matriz 3x3 informada pelo usuário e imprime a soma dos números ímpares da mesma.
+E1: imprime o correspondente do número em decímetro, centímetro, milímetro.
 
-E2: imprime uma matriz 4x4 informada pelo usuário e imprime a soma de cada uma das 4 colunas.
+E2: imprime uma tabela com a tabuada do 1 até 9.
 
-E3: imprime uma matriz 3x4 informada pelo usuário e imprime a soma de cada uma das 3 linhas.
+E3: imprime o correspondente do número em hexadecimal e octal.
 
-E4: Imprime uma matriz 3x3 informada pelo usuário e imprime o maior e menor elemento da matriz.
+E4: imprime o correspondente do número em Celsius e Fahrenheit.
 
-E5: Imprime uma matriz 4x4 informada pelo usuário e imprime sua diagonal principal.
+E5: imprime o resultado de operações entre dois número, sendo elas, soma, multiplicação, potência, raiz quadrada, seno e módulo. 
 
-E6: Imprime uma matriz 4x4 informada pelo usuário e imprime sua diagonal secundária.
+## Exercicíos 1 a 5 do grupo explorando os comandos de controle de fluxo:
 
-## Exercicíos 1 a 4 do grupo de funções:
+E1: verifica dois valores digitados, caso o primeiro seja maior que o segundo imprimisse os valores do primeiro para o segundo, caso o segundo seja maior será impresso os número em ordem decrescente ou caso eles sejam iguais aparece na tela a mensagem "Valore iguais".
 
-E1: calcula a enésima potência de uma variável x.
+E2: imprime os 127 primeiros caracteres da tabela ASCII em hexadecimal, decimal e o seu respectivo caracter.
 
-E2: calcula fatorial de um numero, exercício realizado com e sem recursividade.
+E3: imprime o resultado da inflação do número digitado pelo usuário, porém se este número for menor que 100 a inflação será de 10% caso o número for maior ou igual à 100 será de 20%
 
-E3: calcula: ex = 1 + x + x2/2! + x3/3! + ... enquanto x inserido pelo usuário for maior que 10E-6.
+E4: imprime o resultado de operações entre dois números dependendo do caracter digitado pelo usuário.
 
-E4: Imprime opções de pagamento para um determinado valor inserido pelo usuário.
+E5: imprime a média das notas das provas de alunos.
 
-## Exercícios 1 a 13 do grupo de strings:
+## Exercícios 1 a 6 do grupo de vetores:
 
-E1: imprime quantos caracteres, sinais de pontuação, números e quantas letras minúsculas possui a(s) palavra(s) digitadas.
+E1: imprime o maior e menor valor dentro do vetor.
 
-E2: imprime a string digitada dividida em linhas diferentes de acordo com a quantidade de espaços em branco.
+E2: imprime o vetor digitado de forma ordenado. 
 
-E3: imprime o string de forma normal e de trás para frente, recursivamente.
+E3: imprime a média dos valores contidos dentro do vetor.
 
-E4: monta um frase contendo as seguintes informações: "Seu nome é ..., você tem ... anos, mora na rua ... e seu telefone é ... ."
+E4: imprime o vetor preenchido com os valores digitados pelo usuário.
 
-E5: retorna 1 se a string digitada foi "SIM" e 0 se for digitado "NAO".
+E5: verifica se algum dos valores digitados dentro do vetor corresponde a médias de todos os valores.
 
-E6: imprime quantas palavras separadas por espaços em branco a string contém.
-
-E7: executa a mesma coisa que a função "strcpy" faz.
-
-E8: imprime um numero por extenso.
-
-E9: imprime uma lista de nomes em ordem alfabética do pré-nome, lista de nomes em ordem alfabética de sobrenome e o número médio de letras por nome.
-
-E10: imprime uma string sem o caracter que foi informado.
-
-E11: imprime uma string com um caractere informado, inserido na posição também informada.
-
-E12: retorna o endereço do primeiro caractere em branco encontrado.
-
-E13: imprime o valor em decimal de um número em determinada base informada.
-
-## Exercícios 1 a 7 do grupo de parâmetros e estruturas:
-
-E1: imprime a soma, diferença e o produto entre dois números.
-
-E2: imprime 1 se a operação de razão entre dois números for possível e 0 caso contrário.
-
-E3: imprime a média, o menor valor (sem considerar o último) e o maior valor de um vetor, onde o último valor é negativo.
-
-E4: imprime o valor das 3 notas de um aluno.
-
-E5: executa funções de uma agenda eletrônica implementadas em um menu, como: entrar um novo nome na agenda, imprimir dados de uma pessoa e imprimir uma lista de nomes cadastrados que comecem pela letra indicada.
-
-E6: imprime uma lista de produtos ordenados alfabeticamente, onde os valores que estão abaixo de 100 reais, são inflacionados em 5%.
-
-E7: é igual ao exercício 5.
+E6: imprime a diferença entre a média dos elementos das colunas pares e a média dos elementos das colunas ímpares.  
 
 ## Realeses Entregues:
 
@@ -84,9 +54,11 @@ Entrega #1 - grupo de matrizes e funções. (v1.0.0)
 
 Entrega #2 - grupo de parâmetros e strings. (v2.0.0)
 
+Entrega #3 - grupo de sequenciais simples e controle de fluxo e grupo de vetores. (v3.0.0)
+
 ## Realeses a entregar:
 
-Entregar #3 - grupo de sequenciais simples e controle de fluxo.
+Todas as entregas foram realizadas.
 
 ## IDEs:
 
@@ -102,66 +74,33 @@ Online gdb - compilador online para várias linguagens.
 
 ## Orientação de execução:
 
-## Exercícios 1 a 6 do grupo de matrizes:
+## Exercícios 1 a 5 do grupo de programas sequenciais simples:
 
-E1, E4: executar e digitar uma matriz 3x3.
+E1, E3, E4: digitar um valor.
 
-E2, E5, E6: executar e digitar uma matriz 4x4.
+E2: executa uma tabela com a tabuada do 1 até 9.
 
-E3: executar e digitar uma matriz 3x4.
+E5: digite dois valores.
 
-## Exercicíos 1 a 4 do grupo de funções:
+## Exercicíos 1 a 5 do grupo explorando os comandos de controle de fluxo:
 
 E1: executar e digitar uma base e um expoente.
 
-E2 recursivo, E2 não recursivo: executar e digitar o número que deseja calcular o fatorial.
+E2  imprime os 127 primeiros caracteres da tabela ASCII em hexadecimal, decimal e o seu respectivo caracter.
 
-E3: executar e digitar um valor 'x' para substituir na expressão: ex = 1 + x + x2/2! + x3/3! + ... 
+E3: digite um valor. 
 
-E4: executar e inserir o valor a ser pago e digitar de 1 a 3 para selecionar a opção de pagamento.
+E4: digite dois valores e um caracter.
 
-## Exercícios 1 a 13 do grupo de strings:
+E5: digite três valores.
 
-E1: digitar uma string.
+## Exercícios 1 a 6 do grupo de vetores:
 
-E2: digitar uma string com pelo menos um espaço em branco.
+E1, E2, E5: digitar um vetor com 10 valores.
 
-E3: digitar uma palavra.
+E3: digitar um vetor com 5 valores.
 
-E4: digitar um nome, endereço, telefone e a idade.
+E4: digitar o número de valores que deve conter dentro do vetor.
 
-E5: digitar "SIM" ou "NAO".
-
-E6: digitar uma palavra.
-
-E7: digitar uma palavra.
-
-E8: digitar um número menor que 1000
-
-E9:
-
-E10: digitar uma palavra e um caractere que deseja remover.
-
-E11: digitar uma palavra, um caractere e uma posição (número).
-
-E12: digitar uma palavra.
-
-E13: digitar um número e sua base.
-
-## Exercícios 1 a 7 do grupo de parâmetros e estruturas:
-
-E1: digitar dois números.
-
-E2: digitar dois números.
-
-E3: digitar 10 números, sendo o último negativo.
-
-E4: digitar 3 valores.
-
-E5: escolher a função do menu e seguir as orientações que estarão na tela.
-
-E6: digitar 20 nomes e 20 preços, um ao lado do outro.
-
-E7: igual ao exercício 5.
-
+E6: digitar uma matriz de 5 linhas e 3 colunas.
 
